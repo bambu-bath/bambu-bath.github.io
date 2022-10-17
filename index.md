@@ -14,7 +14,8 @@ BaMBU is a group of bioinformaticians at [University of Bath](https://www.bath.a
 
 [Upcoming events](/schedule){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
-
 ### Keep in touch
+
 [Email](mailto:bambu@bath.ac.uk){: .btn }
 [Twitter](https://twitter.com/bambu_bath){: .btn .btn-blue }
+[Yammer](https://web.yammer.com/main/org/bath.ac.uk/groups/eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiIxMjAzNzY0Njc0NTYifQ/all){: .btn .btn-green }
